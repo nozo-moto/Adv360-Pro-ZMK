@@ -1,76 +1,76 @@
-gacro_cmd_q: macro_cmd_q{
+macro_cmd_q: macro_cmd_q{
 compatible = "zmk,behavior-macro";
 label = "macro_cmd_q";
 #binding-cells = <0>;
 bindings = <&kp LEFT_COMMAND>, <&kp Q>;
 };
-gacro_cmd_w: macro_cmd_w{
+macro_cmd_w: macro_cmd_w{
 compatible = "zmk,behavior-macro";
 label = "macro_cmd_w";
 #binding-cells = <0>;
 bindings = <&kp LEFT_COMMAND>, <&kp W>;
 };
-gacro_cmd_e: macro_cmd_e{
+macro_cmd_e: macro_cmd_e{
 compatible = "zmk,behavior-macro";
 label = "macro_cmd_e";
 #binding-cells = <0>;
 bindings = <&kp LEFT_COMMAND>, <&kp E>;
 };
-gacro_cmd_r: macro_cmd_r{
+macro_cmd_r: macro_cmd_r{
 compatible = "zmk,behavior-macro";
 label = "macro_cmd_r";
 #binding-cells = <0>;
 bindings = <&kp LEFT_COMMAND>, <&kp R>;
 };
-gacro_cmd_a: macro_cmd_a{
+macro_cmd_a: macro_cmd_a{
 compatible = "zmk,behavior-macro";
 label = "macro_cmd_a";
 #binding-cells = <0>;
 bindings = <&kp LEFT_COMMAND>, <&kp A>;
 };
-gacro_cmd_s: macro_cmd_s{
+macro_cmd_s: macro_cmd_s{
 compatible = "zmk,behavior-macro";
 label = "macro_cmd_s";
 #binding-cells = <0>;
 bindings = <&kp LEFT_COMMAND>, <&kp S>;
 };
-gacro_cmd_d: macro_cmd_d{
+macro_cmd_d: macro_cmd_d{
 compatible = "zmk,behavior-macro";
 label = "macro_cmd_d";
 #binding-cells = <0>;
 bindings = <&kp LEFT_COMMAND>, <&kp D>;
 };
-gacro_cmd_f: macro_cmd_f{
+macro_cmd_f: macro_cmd_f{
 compatible = "zmk,behavior-macro";
 label = "macro_cmd_f";
 #binding-cells = <0>;
 bindings = <&kp LEFT_COMMAND>, <&kp F>;
 };
-gacro_cmd_g: macro_cmd_g{
+macro_cmd_g: macro_cmd_g{
 compatible = "zmk,behavior-macro";
 label = "macro_cmd_g";
 #binding-cells = <0>;
 bindings = <&kp LEFT_COMMAND>, <&kp G>;
 };
-gacro_cmd_z: macro_cmd_z{
+macro_cmd_z: macro_cmd_z{
 compatible = "zmk,behavior-macro";
 label = "macro_cmd_z";
 #binding-cells = <0>;
 bindings = <&kp LEFT_COMMAND>, <&kp Z>;
 };
-gacro_cmd_x: macro_cmd_x{
+macro_cmd_x: macro_cmd_x{
 compatible = "zmk,behavior-macro";
 label = "macro_cmd_x";
 #binding-cells = <0>;
 bindings = <&kp LEFT_COMMAND>, <&kp X>;
 };
-gacro_cmd_c: macro_cmd_c{
+macro_cmd_c: macro_cmd_c{
 compatible = "zmk,behavior-macro";
 label = "macro_cmd_c";
 #binding-cells = <0>;
 bindings = <&kp LEFT_COMMAND>, <&kp C>;
 };
-gacro_cmd_v: macro_cmd_v{
+macro_cmd_v: macro_cmd_v{
 compatible = "zmk,behavior-macro";
 label = "macro_cmd_c";
 #binding-cells = <0>;
