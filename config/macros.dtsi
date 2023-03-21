@@ -22,7 +22,7 @@ label = "macro_cmd_r";
 #binding-cells = <0>;
 bindings = <&kp LEFT_COMMAND>, <&kp R>;
 };
-macro_cmd_r: macro_cmd_t{
+macro_cmd_t: macro_cmd_t{
 compatible = "zmk,behavior-macro";
 label = "macro_cmd_t";
 #binding-cells = <0>;
@@ -82,7 +82,7 @@ label = "macro_cmd_c";
 #binding-cells = <0>;
 bindings = <&kp LEFT_COMMAND>, <&kp V>;
 };
-macro_cmd_v: macro_cmd_b{
+macro_cmd_b: macro_cmd_b{
 compatible = "zmk,behavior-macro";
 label = "macro_cmd_b";
 #binding-cells = <0>;
