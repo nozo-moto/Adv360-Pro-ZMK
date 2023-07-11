@@ -78,7 +78,7 @@ bindings = <&kp LEFT_COMMAND>, <&kp C>;
 };
 macro_cmd_v: macro_cmd_v{
 compatible = "zmk,behavior-macro";
-label = "macro_cmd_c";
+label = "macro_cmd_v";
 #binding-cells = <0>;
 bindings = <&kp LEFT_COMMAND>, <&kp V>;
 };
